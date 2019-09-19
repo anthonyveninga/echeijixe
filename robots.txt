@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veekooque.personalitism.shop/sitemap.xml
